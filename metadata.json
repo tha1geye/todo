@@ -1,0 +1,9 @@
+{
+	"uuid": "todo@tha1geye.github.com",
+	"name": "todo",
+	"description": "My first extension- a todo manager in the panel.",
+	"shell-version": ["42"],
+	"url": "https://github.com/tha1geye",
+	"version": 1,
+
+} 
